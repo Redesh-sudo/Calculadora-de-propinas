@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_de_propinas.MainPage">
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        
+        <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora de Propinas" HorizontalTextAlignment="Center" TextColor="Black" FontSize="Large"/>
+        </Frame>
+
+
+
+            <StackLayout  Grid.Row="1">
+
+
+                <Entry Placeholder="Total" x:Name="txtTotal"/>
+
+                <Entry Placeholder="Propina" x:Name="txtPropina"/>
+
+                <Entry Placeholder="Número de personas" x:Name="txtNumero_personas"/>
+
+                <Button Text="calcular" x:Name="calcular" Clicked="calcular_Clicked"/>
+
+                <Label Text="Propina:" FontSize="Medium"/>
+
+                <Label Text="$0.0" FontSize="Medium" x:Name="lblpropina"/>
+
+                    <Label Text="Total:" FontSize="Medium"/>
+
+                    <Label Text="$0.0" FontSize="Medium" x:Name="lbltotal"/>
+
+                        <Label Text="Propina por persona:" FontSize="Medium"/>
+
+                        <Label Text="$0.0" FontSize="Medium" x:Name="lblpropina_persona"/>
+
+                            <Label Text="Total por persona" FontSize="Medium"/>
+
+                            <Label Text="$0.0" FontSize="Medium" x:Name="lbltotal_porpersona"/>
+            </StackLayout>
+
+        </StackLayout>
+
+    </Grid>
+            
+    
+
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsTaz5kb3L3Z7fBCpKP/RLsDF8KWW/quLBYm5c9b5PajedAA6DxzI0HyoTNTY3nAYvdFQDTQof/aKwEO/4PVRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas.iOS\\Calculadora de propinas.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

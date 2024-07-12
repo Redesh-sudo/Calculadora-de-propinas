@@ -1,0 +1,15 @@
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\bin\Debug\netstandard2.0\Calculadora de propinas.deps.json
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\bin\Debug\netstandard2.0\Calculadora de propinas.dll
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\bin\Debug\netstandard2.0\ref\Calculadora de propinas.dll
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\bin\Debug\netstandard2.0\Calculadora de propinas.pdb
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.csproj.AssemblyReference.cache
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.AssemblyInfoInputs.cache
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.AssemblyInfo.cs
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.csproj.CoreCompileInputs.cache
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.dll
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\refint\Calculadora de propinas.dll
+C:\Users\danto\source\repos\Calculadora de propinas\Calculadora de propinas\Calculadora de propinas\obj\Debug\netstandard2.0\Calculadora de propinas.pdb

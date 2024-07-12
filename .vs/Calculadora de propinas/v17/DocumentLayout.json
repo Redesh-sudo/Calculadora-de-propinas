@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03597226-ECAC-4EEE-BC9D-0CD342E5D5FC}|Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas.csproj|c:\\users\\danto\\source\\repos\\calculadora de propinas\\calculadora de propinas\\calculadora de propinas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03597226-ECAC-4EEE-BC9D-0CD342E5D5FC}|Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas.csproj|solutionrelative:calculadora de propinas\\calculadora de propinas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03597226-ECAC-4EEE-BC9D-0CD342E5D5FC}|Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas.csproj|c:\\users\\danto\\source\\repos\\calculadora de propinas\\calculadora de propinas\\calculadora de propinas\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{03597226-ECAC-4EEE-BC9D-0CD342E5D5FC}|Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas.csproj|solutionrelative:calculadora de propinas\\calculadora de propinas\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml.cs",
+              "RelativeToolTip": "Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:05:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\danto\\source\\repos\\Calculadora de propinas\\Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml",
+              "RelativeToolTip": "Calculadora de propinas\\Calculadora de propinas\\MainPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T02:43:24.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
